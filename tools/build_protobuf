@@ -18,4 +18,5 @@ rm -f ../src/trezor/messages/[A-Z]*.py
     ../vendor/trezor-common/protob/messages-nem.proto \
     ../vendor/trezor-common/protob/messages-ripple.proto \
     ../vendor/trezor-common/protob/messages-stellar.proto \
-    ../vendor/trezor-common/protob/messages-tezos.proto
+    ../vendor/trezor-common/protob/messages-tezos.proto \
+    ../vendor/trezor-common/protob/messages-rise.proto \
